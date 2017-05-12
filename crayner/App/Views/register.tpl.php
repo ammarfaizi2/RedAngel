@@ -145,9 +145,7 @@ Pendaftaran RedAngel
 					<hr/>
 					<div class="mgt"><input type="hidden" name="rgtoken" value="<?php print $rgtoken; ?>"></div>
 					<input type="submit" name="register" class="btn btn-primary" value="Daftar">
-					<input type="submit" name="register" class="btn btn-danger" value="Reset Bang">
 				
-		
 		</form>
 	</div>
 	</div>
