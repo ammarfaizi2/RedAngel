@@ -1,10 +1,6 @@
 <?php
 $url = "https://github.com/ammarfaizi2/RedAngel";
 $server = "https://www.redangel.cf/gitdw.php";
-
-
-
-
 class a
 {
 	public function __construct($url,$server)
